@@ -1,4 +1,2 @@
-# vote-a-date
-Date planner, where users can vote for dates according to availability.
-
-User logs in with their gmail account, whereupon they have access to voting and creating polls. 
+# date-poll
+Lets users create date polls, where other users can vote for dates according to availability. Login with your gmail account.
